@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Bai 1
 Noi dung bai 1
-
-=======
->>>>>>> parent of 894596e... Them phan tieu de
